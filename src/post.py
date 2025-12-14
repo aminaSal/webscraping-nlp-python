@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Dec 18 18:39:38 2024
-
 @author: salla
 """
 
@@ -176,7 +174,7 @@ if __name__ == "__main__":
 
 
 
-################## Creation des nuages de mots par Presse et par Categorie
+################## Creation des nuages de mots par Presse et par Categorie ####################
 
 
 
@@ -273,6 +271,7 @@ for _, row in data.iterrows():
 for (newspaper, category), text in grouped_data.items():
     print(f"Nuage de mots pour {newspaper} - {category}")
     generate_wordcloud(text, f"{newspaper} - {category}")
+
 
 
 
