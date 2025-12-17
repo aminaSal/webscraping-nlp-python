@@ -29,7 +29,7 @@ The goal is to understand each newspaper’s publication patterns, editorial pri
 webscraping-nlp/
 ├── data/                    # Extracted articles (CSV + article texts)
 
-├── notebooks/               # notebooks (analysis, visuals)
+├── notebooks/               # Results analysis
 
 ├── visuals/                 # Word clouds
 
