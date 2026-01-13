@@ -1,4 +1,4 @@
-# webscraping and NLP analysis with python
+# Web scraping and NLP analysis with python
 # Overview
 
 This project automates the extraction and textual analysis of news articles from two media outlets: Le Monde (France) and Midi Madagasikara (Madagascar).
