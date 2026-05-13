@@ -27,14 +27,14 @@ The goal is to understand each newspaper’s publication patterns, editorial pri
 # 📁 Repository Structure
 
 webscraping-nlp/
-├── data/                    # Extracted articles (CSV + article texts)
+├── data/                    Extracted articles (CSV + article texts)
 
-├── notebooks/               # Results analysis + module versions
+├── notebooks/               Results analysis + module versions
 
-├── visuals/                 # Word clouds
+├── visuals/                 Word clouds
 
 ├── src/
 
-    ├── post.py              # Web scraping logic for both newspapers, Cleaning + HTML entity correction, nlp_analysis, Word clouds & text processing
+    ├── post.py              Web scraping logic for both newspapers, Cleaning + HTML entity correction, nlp_analysis, Word clouds & text processing
     
 ├── README.md
